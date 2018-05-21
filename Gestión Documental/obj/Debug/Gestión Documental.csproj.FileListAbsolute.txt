@@ -1,0 +1,33 @@
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\csc.exe
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\vbc.exe
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\VBCSCompiler.exe
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\Gestión Documental.dll.config
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\Gestión Documental.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\Gestión Documental.pdb
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.Helpers.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.Mvc.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.Razor.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.WebPages.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.WebPages.Razor.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.Helpers.xml
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.Mvc.xml
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.Razor.xml
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.WebPages.xml
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\bin\System.Web.WebPages.Razor.xml
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\obj\Debug\Gestión Documental.csprojResolveAssemblyReference.cache
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\obj\Debug\Gestión Documental.dll
+C:\Users\adminteo\documents\visual studio 2015\Projects\Gestión Documental\Gestión Documental\obj\Debug\Gestión Documental.pdb

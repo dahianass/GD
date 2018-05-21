@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestión Documental", "Gestión Documental\Gestión Documental.csproj", "{8D21843C-3F54-4AA5-AC84-50E50AB930EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Web", "01. Web", "{EF7F08D6-7837-44B1-BBCC-C05DFE6C4340}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Bussines", "02. Bussines", "{A944071D-678E-412D-A970-738FC21D0DD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Data", "03. Data", "{BF04104D-431C-455F-812A-8CFAAB972B10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Shared", "04. Shared", "{7D38B6F3-B6A0-4784-B1CD-9CCAE4E45741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GD.Model", "GD.Model\GD.Model.csproj", "{7CC7F5F8-B4BC-4F86-BCBD-CD9450B6A7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GD.Bussines", "GD.Bussines\GD.Bussines.csproj", "{58DF7697-87BA-459D-9DA4-00CC3C01083E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D21843C-3F54-4AA5-AC84-50E50AB930EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D21843C-3F54-4AA5-AC84-50E50AB930EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D21843C-3F54-4AA5-AC84-50E50AB930EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D21843C-3F54-4AA5-AC84-50E50AB930EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC7F5F8-B4BC-4F86-BCBD-CD9450B6A7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC7F5F8-B4BC-4F86-BCBD-CD9450B6A7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC7F5F8-B4BC-4F86-BCBD-CD9450B6A7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC7F5F8-B4BC-4F86-BCBD-CD9450B6A7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DF7697-87BA-459D-9DA4-00CC3C01083E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DF7697-87BA-459D-9DA4-00CC3C01083E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DF7697-87BA-459D-9DA4-00CC3C01083E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DF7697-87BA-459D-9DA4-00CC3C01083E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8D21843C-3F54-4AA5-AC84-50E50AB930EF} = {EF7F08D6-7837-44B1-BBCC-C05DFE6C4340}
+		{7CC7F5F8-B4BC-4F86-BCBD-CD9450B6A7B5} = {BF04104D-431C-455F-812A-8CFAAB972B10}
+		{58DF7697-87BA-459D-9DA4-00CC3C01083E} = {A944071D-678E-412D-A970-738FC21D0DD8}
+	EndGlobalSection
+EndGlobal
